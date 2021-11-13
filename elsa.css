@@ -1,0 +1,418 @@
+header {
+  position: absolute;
+  width: 100%;
+  height: 94px;
+  top: 0px;
+  left: 0px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 4px 20px rgba(12, 36, 64, 0.1);
+          box-shadow: 0px 4px 20px rgba(12, 36, 64, 0.1);
+}
+
+header #iconElsa {
+  position: absolute;
+  left: 45%;
+  top: 15%;
+}
+
+header .ELSA {
+  position: absolute;
+  left: 50%;
+  top: 35%;
+}
+
+.section1 {
+  position: relative;
+  width: 100%;
+  height: 406px;
+  left: 0px;
+  top: 94px;
+  background: #ffffff;
+}
+
+.section1 #iconOrange {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 25%;
+  bottom: 0%;
+  height: 20%;
+}
+
+.section1 #app {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  width: 40%;
+  height: 20%;
+}
+
+.section1 #title2 {
+  position: absolute;
+  left: 20%;
+  top: 35%;
+  width: 587px;
+  height: 25px;
+}
+
+.section1 #phone {
+  position: absolute;
+  left: 80%;
+  top: -30px;
+}
+
+.section1 #yellow {
+  position: absolute;
+  left: 88.61%;
+  right: -4.79%;
+  top: 60%;
+}
+
+.section1 #icon11 {
+  position: absolute;
+  left: 67%;
+  top: 30%;
+}
+
+.section1 #icon21 {
+  position: absolute;
+  left: 69%;
+  top: 55%;
+}
+
+.section1 #icon22 {
+  position: absolute;
+  left: 69.4%;
+  top: 56.5%;
+}
+
+.section1 #icon14 {
+  position: absolute;
+  right: 0%;
+  top: 30%;
+}
+
+.section1 #icon24 {
+  position: absolute;
+  right: 0%;
+  top: 30%;
+}
+
+.section1 #icon15 {
+  position: absolute;
+  left: 70%;
+  top: 20%;
+}
+
+.section1 #micro {
+  position: absolute;
+  left: 67.9%;
+  top: 32%;
+}
+
+.section1 #dangky {
+  position: absolute;
+  left: 30%;
+  top: 50%;
+  width: 274px;
+  height: 67px;
+  background: linear-gradient(80.25deg, #3dffc8 1.31%, #40f6cf 15.32%, #49dce1 38.61%, #57b3ff 68.19%);
+  -webkit-box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+          box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+  border-radius: 20px;
+  border: 0;
+}
+
+.section1 #dangkyngay {
+  position: absolute;
+  left: 14%;
+  top: 30%;
+}
+
+.section1 #dangky:hover {
+  -webkit-box-shadow: 0 1.75rem 3rem 0rem rgba(50, 0, 100, 0.1);
+          box-shadow: 0 1.75rem 3rem 0rem rgba(50, 0, 100, 0.1);
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.section1 #dangky:active {
+  -webkit-box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50, 0, 100, 0.125);
+          box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50, 0, 100, 0.125);
+  -webkit-transform: scale(1.025);
+          transform: scale(1.025);
+}
+
+.section2 {
+  position: relative;
+  width: 100%;
+  height: 830px;
+  background-color: #0c2440;
+}
+
+.section2 #headerform {
+  position: absolute;
+  left: 5%;
+  top: 10%;
+  width: 600px;
+  height: 130px;
+  background: linear-gradient(81.84deg, #49dce1 1.09%, #39a3fb 96.86%);
+  -webkit-box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+          box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+  border-radius: 15px 15px 0px 0px;
+}
+
+.section2 #headerform #tiltle3 {
+  position: absolute;
+  left: 13%;
+  top: 10%;
+}
+
+.section2 #icon16 {
+  position: absolute;
+  right: 0%;
+  top: 70%;
+}
+
+.section2 #icon17 {
+  position: absolute;
+  right: 32%;
+  top: 72%;
+}
+
+.section2 #icon18 {
+  position: absolute;
+  right: 46%;
+  top: 62%;
+}
+
+.section2 #icon19 {
+  position: absolute;
+  right: 17%;
+  top: 20%;
+}
+
+.section2 #bodyform {
+  position: absolute;
+  left: 5%;
+  top: 25%;
+  width: 600px;
+  height: 70%;
+  background: #ffffff;
+  -webkit-box-shadow: 5px 5px 8px rgba(12, 36, 64, 0.3);
+          box-shadow: 5px 5px 8px rgba(12, 36, 64, 0.3);
+  border-radius: 0px 0px 15px 15px;
+}
+
+.section2 #bodyform #icon12 {
+  position: absolute;
+  left: 2%;
+  top: 5%;
+}
+
+.section2 #bodyform #icon13 {
+  position: absolute;
+  left: 3%;
+  top: 2%;
+}
+
+.section2 #bodyform #hoten {
+  position: absolute;
+  left: 9%;
+  top: 5%;
+}
+
+.section2 #bodyform #hoteninput {
+  position: absolute;
+  left: 3%;
+  top: 10%;
+  width: 536px;
+  height: 60px;
+  background: #ffffff;
+  border: 2px solid #57b3ff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 30px;
+}
+
+.section2 #bodyform #phoneicon {
+  position: absolute;
+  left: 2%;
+  top: 24%;
+}
+
+.section2 #bodyform #sodienthoai {
+  position: absolute;
+  left: 9%;
+  top: 25%;
+}
+
+.section2 #bodyform #sodienthoaiinput {
+  position: absolute;
+  left: 3%;
+  top: 32%;
+  width: 536px;
+  height: 60px;
+  background: #ffffff;
+  border: 2px solid #57b3ff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 30px;
+}
+
+.section2 #bodyform #emailicon {
+  position: absolute;
+  left: 2%;
+  top: 48%;
+}
+
+.section2 #bodyform #email {
+  position: absolute;
+  left: 9%;
+  top: 48%;
+}
+
+.section2 #bodyform #emailinput {
+  position: absolute;
+  left: 3%;
+  top: 54%;
+  width: 536px;
+  height: 60px;
+  background: #ffffff;
+  border: 2px solid #57b3ff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 30px;
+}
+
+.section2 #bodyform #guidangkybutton {
+  position: absolute;
+  left: 5%;
+  top: 85%;
+  width: 530px;
+  height: 74px;
+  background: linear-gradient(80.25deg, #3dffc8 1.31%, #40f6cf 15.32%, #49dce1 38.61%, #57b3ff 68.19%);
+  -webkit-box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+          box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+  border-radius: 20px;
+  border: 0;
+}
+
+.section2 #bodyform #guidangky {
+  position: absolute;
+  left: 30%;
+  top: 30%;
+}
+
+.section2 #bodyform #guidangkybutton:hover {
+  -webkit-box-shadow: 0 1.75rem 3rem 0rem rgba(50, 0, 100, 0.1);
+          box-shadow: 0 1.75rem 3rem 0rem rgba(50, 0, 100, 0.1);
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.section2 #bodyform #guidangkybutton:active {
+  -webkit-box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50, 0, 100, 0.125);
+          box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50, 0, 100, 0.125);
+  -webkit-transform: scale(1.025);
+          transform: scale(1.025);
+}
+
+.section2 #bodyform #goihoc1nam {
+  position: absolute;
+  left: 15%;
+  top: 70%;
+}
+
+.section2 #bodyform #goihoctrondoi {
+  position: absolute;
+  left: 70%;
+  top: 70%;
+}
+
+.section2 #bodyform #goihoc1namcheckbox {
+  position: absolute;
+  left: 5%;
+  top: 68%;
+  width: 40px;
+  height: 40px;
+  background: #ffffff;
+  outline: 2px solid #57b3ff;
+  border-color: #57b3ff;
+}
+
+.section2 #bodyform #goihoctrondoicheckbox {
+  position: absolute;
+  left: 60%;
+  top: 68%;
+  width: 40px;
+  height: 40px;
+  background: #ffffff;
+  outline: 2px solid #57b3ff;
+  border-color: #57b3ff;
+}
+
+.section2 #bodyform #gia1nam {
+  display: none;
+  position: absolute;
+  left: 15%;
+  top: 73%;
+}
+
+.section2 #bodyform #gia1nam p {
+  color: red;
+  font-size: 20px;
+}
+
+.section2 #bodyform #giatrondoi {
+  display: none;
+  position: absolute;
+  left: 65%;
+  top: 73%;
+}
+
+.section2 #bodyform #giatrondoi p {
+  color: red;
+  font-size: 20px;
+}
+
+.section2 #doublephone {
+  position: absolute;
+  right: 0%;
+  top: 10%;
+}
+
+.section3 #dangky2 {
+  position: absolute;
+  left: 31%;
+  top: 307%;
+  width: 33%;
+  height: 12%;
+  background: linear-gradient(80.25deg, #3dffc8 1.31%, #40f6cf 15.32%, #49dce1 38.61%, #57b3ff 68.19%);
+  -webkit-box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+          box-shadow: 0px 4px 8px rgba(46, 153, 241, 0.5);
+  border-radius: 20px;
+  border: 0;
+}
+
+.section3 #dangkyngay {
+  position: absolute;
+  left: 22%;
+  top: 30%;
+  width: 50%;
+}
+
+.section3 #dangky2:hover {
+  -webkit-box-shadow: 0 1.75rem 3rem 0rem rgba(50, 0, 100, 0.1);
+          box-shadow: 0 1.75rem 3rem 0rem rgba(50, 0, 100, 0.1);
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.section3 #dangky2:active {
+  -webkit-box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50, 0, 100, 0.125);
+          box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50, 0, 100, 0.125);
+  -webkit-transform: scale(1.025);
+          transform: scale(1.025);
+}
+/*# sourceMappingURL=elsa.css.map */
